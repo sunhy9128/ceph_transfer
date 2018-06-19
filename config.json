@@ -1,0 +1,27 @@
+{
+    //    "aws.host": "47.104.59.83",
+    //    "aws.parentPath": "/root/tmpzip",
+    ////    "aws.parentPath": "/home/sunhuayu/work",
+    //    "aws.port": 9600,
+    //    "aws.adminHost": "http://47.104.59.83/admin",
+    //    "db.address": "qdxiaoniurds.mysql.rds.aliyuncs.com",
+    //    "db.username": "ceph",
+    //    "db.password": "ceph@59xiaoniu",
+    //    "db.database": "ceph",
+    //    "aws.accessKey": "0Q366X2YE9AC829KJ8JT",
+    //    "aws.secretAccessKey": "2QLMLg5DKNp6jzIIO1DYsvGSbf6ToK7TzfEoO8k6"
+
+
+    "db.address": "172.16.0.40",
+    "aws.adminHost": "http://172.16.0.40:7480/admin",
+    "aws.parentPath": "/home/sunhuayu/",
+    "aws.host": "172.16.0.40:7480",
+    "project.port": 9600,
+    "db.username": "root",
+    "db.password": "root",
+    "db.database": "bhfj",
+    "aws.accessKey": "ULZ3D62JLK1WT85X0ASB",
+    "aws.secretAccessKey": "GS4xNztaNpXYLyoemmYD6nhqJCdOSsNJa0Gz3IJi",
+    "sdk.js": "/home/sunhuayu/Downloads/ceph-sdk-1.0.0.js",
+    "sdk.c": "/home/sunhuayu/Downloads/Ceph-C-SDK.zip"
+}
